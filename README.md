@@ -14,7 +14,7 @@
 
 Request URL {GET} https://apextab.com/api/search.php
 
-METHOD | **name**:
+METHOD | **search**:
 
 - <i>**playername**</i> urlencode the playername<br>
 
