@@ -14,15 +14,16 @@
 
 Request URL {GET} https://apextab.com/api/search.php
 
-METHOD | **search**:
-
-- <i>**playername**</i> urlencode the playername<br>
 
 METHOD | **platform**:
 
 - <i>**pc**</i> will only display PC players<br>
 - <i>**psn**</i> will only display Playstation players<br>
 - <i>**xbl**</i> will only display Xbox players<br>
+
+METHOD | **search**:
+
+- <i>**playername**</i> urlencode the playername<br>
 
 Response data:
 
