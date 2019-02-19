@@ -37,7 +37,7 @@ Response data:
 - <i>**level**</i> is the current level of the player<br>
 - <i>**kills**</i> is the current total kills of the player<br>
 
-Example: https://apextab.com/api/search.php?platform=pc&search=tinybaiier
+Example: https://apextab.com/api/search.php?platform=pc&search=balleringame
 
 Example response:
 ```
@@ -45,7 +45,7 @@ Example response:
   "results": [
     {
       "aid": "f5337d769b7b29628f59d8c84ea45d9d",
-      "name": "TinyBaIIer",
+      "name": "BallerInGame",
       "platform": "pc",
       "avatar": "https://apextab.com/cache/fc4c4cba183c2f81a94730be057cf07d.png",
       "legend": "Pathfinder",
