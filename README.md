@@ -2,6 +2,8 @@
   <h1 align="center">Official ApexTab API Documentation</h3>
 </p>
 
+<hr>
+
 ## About
 - Please note that We are offering this API to all of the users in the community who would to get creative with our data.
 
