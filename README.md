@@ -30,10 +30,10 @@ Response data:
 - <i>**aid**</i> is the Identifier assigned by ApexTab to the player<br>
 - <i>**name**</i> is the current name of the player<br>
 - <i>**platform**</i> is the platform of the player<br>
-- <i>**level**</i> is the current level of the player<br>
-- <i>**kills**</i> is the current total kills of the player<br>
 - <i>**avatar**</i> is the current avatar URL of the player<br>
 - <i>**legend**</i> is the current selected legend of the player<br>
+- <i>**level**</i> is the current level of the player<br>
+- <i>**kills**</i> is the current total kills of the player<br>
 
 Example: https://apextab.com/api/search.php?platform=pc&search=tinybaiier
 
