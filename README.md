@@ -79,6 +79,50 @@ An example of a player ID is: <i>**f5337d769b7b29628f59d8c84ea45d9d**</i>
 
 Example: https://apextab.com/api/player.php?aid=f5337d769b7b29628f59d8c84ea45d9d
 
+Example response: 
+```
+{
+  "playerfound": true,
+  "aid": "f5337d769b7b29628f59d8c84ea45d9d",
+  "name": "BallerInGame",
+  "platform": "PC",
+  "skillratio": 4,
+  "visits": "1522",
+  "avatar": "https://apextab.com/cache/fc4c4cba183c2f81a94730be057cf07d.png",
+  "legend": "Lifeline",
+  "level": "28",
+  "kills": "112",
+  "headshots": "178",
+  "matches": "113",
+  "kills_Bloodhound": "18",
+  "kills_Gibraltar": "10",
+  "kills_Lifeline": "9",
+  "kills_Pathfinder": "4",
+  "kills_Wraith": "2",
+  "kills_Bangalore": "62",
+  "kills_Caustic": "3",
+  "kills_Mirage": "4",
+  "headshots_Bloodhound": "38",
+  "headshots_Gibraltar": "11",
+  "headshots_Lifeline": "23",
+  "headshots_Pathfinder": "31",
+  "headshots_Wraith": "4",
+  "headshots_Bangalore": "61",
+  "headshots_Caustic": "4",
+  "headshots_Mirage": "6",
+  "matches_Bloodhound": "11",
+  "matches_Gibraltar": "13",
+  "matches_Lifeline": "10",
+  "matches_Pathfinder": "15",
+  "matches_Wraith": "11",
+  "matches_Bangalore": "40",
+  "matches_Caustic": "7",
+  "matches_Mirage": "6",
+  "globalrank": "24192",
+  "utime": "1550669669"
+}
+```
+
 <hr>
 
 ## Affiliation
