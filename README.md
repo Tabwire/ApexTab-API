@@ -68,7 +68,7 @@ METHOD | **aid**:
 
 An example of a player ID is: <i>**f5337d769b7b29628f59d8c84ea45d9d**</i>
 
-Example: https://r6tab.com/api/player.php?aid=f5337d769b7b29628f59d8c84ea45d9d
+Example: https://apextab.com/api/player.php?aid=f5337d769b7b29628f59d8c84ea45d9d
 
 <hr>
 
