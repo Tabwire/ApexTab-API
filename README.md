@@ -58,5 +58,19 @@ Example response:
 ```
 <hr>
 
+## Get player data by ID
+
+Request URL {GET} https://apextab.com/api/player.php
+
+METHOD | **aid**:
+
+- <i>**aid**</i> is the ID that ApexTab assigns to every player.<br>
+
+An example of a player ID is: <i>**f5337d769b7b29628f59d8c84ea45d9d**</i>
+
+Example: https://r6tab.com/api/player.php?aid=f5337d769b7b29628f59d8c84ea45d9d
+
+<hr>
+
 ## Affiliation
 - The ApexTab API is in no way shape or form affiliated with Electronic Arts and its partners. Any "Apex Legend" name, logos and/or images are registered trademarks of EA Games and/or Respawn.
