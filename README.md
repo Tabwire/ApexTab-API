@@ -65,6 +65,14 @@ Example response:
    "totalresults":2
 }
 ```
+
+Note, we added new response if they don't set the kills as one of the trackers:
+```
+{
+    "error": "Please set the kills as a tracker then try again.",
+    "totalresults": 0
+}
+```
 <hr>
 
 ## Get player data by ID
