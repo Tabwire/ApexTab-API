@@ -37,21 +37,12 @@ Response data:
 - <i>**level**</i> is the current level of the player<br>
 - <i>**kills**</i> is the current total kills of the player<br>
 
-Example: https://apextab.com/api/search.php?platform=pc&search=ball
+Example: https://apextab.com/api/search.php?platform=pc&search=balleringame
 
 Example response:
 ```
 {  
-   "results":[  
-      {  
-         "aid":"d3afc956ebceabefc2488f093f96182f",
-         "name":"Ballabriggsx",
-         "platform":"pc",
-         "avatar":"https://apextab.com/cache/bf803897b5f71857f60f29d00cbdd883.png",
-         "legend":"Lifeline",
-         "level":"0",
-         "kills":"97"
-      },
+   "results":[
       {  
          "aid":"f5337d769b7b29628f59d8c84ea45d9d",
          "name":"BallerInGame",
@@ -62,7 +53,7 @@ Example response:
          "kills":"112"
       }
    ],
-   "totalresults":2
+   "totalresults":1
 }
 ```
 
