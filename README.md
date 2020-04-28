@@ -6,3 +6,5 @@ By ApexTab | Tabstats.com</h3>
 <hr>
 
 Discontinued due to rate limits from Respawn, EA, PlayStation & Xbox Live.
+
+Visit our website to check stats: https://tabstats.com/apex
